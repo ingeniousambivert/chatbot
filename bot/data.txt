@@ -1,0 +1,30 @@
+hey
+hi
+hello
+hi
+Tell me about yourself 
+my name is GLS bot , I can Help you regarding BCA Course 
+how are you
+i am fine,what about you
+i am fine
+I can Help you regarding BCA Course
+give Details about  BCA,tell me about BCA
+An acronym for Bachelors in Computer Application BCA is a three year undergraduate degree course generally for students who wish to delve into the world of Computer languages The course is one of the most popular options to get started with a career in Information Technology
+what is fee BCA , tution fee , money required for BCA
+per semester is 24150 rupees , per year is 48300 rupees and Total 144900 rupees for 3 years
+How many years of course BCA , Time required for BCA 
+Bca is 3 years course that contain 6 semester
+Eligibility for Admission in BCA
+The applicant must have passed the Gujarat Higher Secondary Education Board (GHSEB)/Central Board of Secondary Examination (CBSE)/Indian Council of Secondary Examination (ICSE) or its equivalent under the 10 + 2 pattern in General or Science stream  with the following subjects English and any one in Mathematics,Physics,Statistics,Business Mathematics,Accountancy,Accounting & Book Keeping,Computers
+Eligibility for Admission in BCA Diploma
+A student who has passed the Diploma Electrical/Electronics/Computer/Chemical Engineering or Diploma Pharmacy Examination of the Technical Examination Board of Gujarat State or any other examination recognized as equivalent thereto will be eligible for admission to the third semester of B.C.A of the six semester degree programme 
+miniume percentage required for Admission in BCA
+For open category candidates 45% and For reserved category (SC/ST/SEBC) candidates 40%
+schedule of academic activities of the programme 
+There are Total 3 year ,6 semister programe ,total 140 credits,36 core course, 6 Foundation course, 4 Elective cource , 2 Specialization courses
+give me more Details
+for more detail visit www dot GLS University dot AC dot in
+bye , good bye ,tata
+exit
+time
+%time% 
